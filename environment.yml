@@ -1,0 +1,12 @@
+name:
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - SimPEG>=0.16.0
+  - pymc=4.0.0b1
